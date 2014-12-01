@@ -7,8 +7,8 @@ $servico = $_POST['servico'];
 $message = $_POST['message'];
 
 $email_remetente = "contato@degustecrepes.com"; 
-$email_destinatario = "charleycesar@gmail.com"; 
-$email_reply = "charleycesar@gmail.com";
+$email_destinatario = "degustecrepes@hotmail.com"; 
+$email_reply = "degustecrepes@hotmail.com";
 $email_assunto = "Contato via site";
 
 
