@@ -20,7 +20,7 @@ $email_conteudo .=  "Mensagem = $message \n";
 	
 $email_headers = implode ( "\n",array ( "From: $email_remetente", "Reply-To: $email_reply", "Subject: $email_assunto","Return-Path:  $email_remetente","MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8" ) );
 
-$url = 'www.degustecrepes.com/contact.php';
+$url = 'Location: http://www.degustecrepes.com/contact.php';
 if (mail ($email_destinatario, $email_assunto, nl2br($email_conteudo), $email_headers)){
 	header($url.'?retorno=enviado');
 }else{
