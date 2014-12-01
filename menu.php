@@ -1,7 +1,7 @@
 <div class="row-top">
 	<div class="main">
     	<div class="wrapper">
-        	<h1><a href="index.html">Deguste<span> Crepes</span></a></h1>
+        	<h1><a href="index.php">Deguste<span> Crepes</span></a></h1>
             <nav>
                 <ul class="menu">
                     <li><a class="<?php if($menuActive == 'index'){echo 'active';}

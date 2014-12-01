@@ -57,16 +57,24 @@
                 </article>
                 <article class="col-2">
                 	<h3 class="p1">Fale Conosco</h3>
-                    <form id="contact-form" method="post" enctype="multipart/form-data">                    
+                    <?php
+                    if($_GET['retorno'] == 'enviado'){
+                        echo 'Obrigado por entrar em contato conosco retornaremos o mais breve possivel.';
+                    }
+                    if($_GET['retorno'] == 'falha'){
+                        echo 'Houve um erro ao enviar o e-mail.';
+                    }
+                    ?>
+                    <form id="contact-form" action="enviar.php" method="post" enctype="multipart/form-data">                    
                         <fieldset>
-                              <label><span class="text-form">Nome:</span><input name="name" type="text" /></label>
+                              <label><span class="text-form">Nome:</span><input name="nome" type="text" /></label>
                               <label><span class="text-form">Email:</span><input name="email" type="text" /></label>                              
-                              <label><span class="text-form">Quantidade de pessoas:</span><input name="email" type="text" /></label>                              
-                              <label><span class="text-form">Serviço:</span><input name="email" type="text" /></label>                              
+                              <label><span class="text-form">Qtd pessoas:</span><input name="qtd" type="text" /></label>                              
+                              <label><span class="text-form">Serviço:</span><input name="servico" type="text" /></label>                              
                               <div class="wrapper">
                                 <div class="text-form">Mensagem:</div>
                                 <div class="extra-wrap">
-                                    <textarea></textarea>
+                                    <textarea name="message"></textarea>
                                     <div class="clear"></div>
                                     <div class="buttons">
                                         <a class="button-2" href="#" onClick="document.getElementById('contact-form').submit()">Send</a>
