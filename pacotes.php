@@ -62,14 +62,15 @@
                             <figure><a class="lightbox-image" href="images/slider-img1.jpg" data-gal="prettyPhoto[prettyPhoto]"><img src="images/page3-img1.jpg" alt=""></a></figure>
                             <h5>Simples</h5>
                             <p class="p1">Apartir de 30 pessoas</p>
-                            <p class="p2"><strong class="color-2">Preço promocional: R$ 960,00</strong></p>
+                            <p class="p2"><strong class="color-2">Preço promocional: R$ 1.020,00</strong></p>
                             <a class="button-1" href="cardapio_simples.php">+ Detalhes</a>
                         </div>
                         <div class="p4">
                             <figure><a class="lightbox-image" href="images/slider-img2.jpg" data-gal="prettyPhoto[prettyPhoto]"><img src="images/page3-img5.jpg" alt=""></a></figure>
                             <h5>Especial</h5>
                             <p class="p1">Apartir de 30 pessoas</p>
-                            <p class="p2"><strong class="color-2">Preço promocional: R$ 1.020,00</strong></p>
+                            <p class="p2"><strong class="color-2">Preço promocional: R$ 1.140,00</strong></p>
+                            <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
                             <a class="button-1" href="cardapio_especial.php">+ Detalhes</a>
                         </div>
                     </div>
