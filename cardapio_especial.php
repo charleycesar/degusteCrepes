@@ -98,12 +98,11 @@
                       <li><b>4 Queijos:</b> Mussarela, catupiry, parmesão e ricota</li>
                       <li><b>Portuguesa:</b> Queijo, presunto, calabresa, azeitona, tomate, cebola e orégano</li>
                       <li><b>Tradicional:</b> Queijo e presunto</li>
-                      <li><b>Frango c/ catupiry</b></li>
                       <li><b>Mineira:</b> Queijo, carne seca, catupiry e orégano</li>
-                      <li><b>Brasileira:</b> Calabresa, cebola, tomate, orégano manjericão e queijo</li>
+                      <li><b>Brasileiro:</b> Calabresa, cebola, tomate, azeitona, orégano manjericão e queijo</li>
                       <li><b>Frances:</b> Frango, catupiry e champion</li>
                       <li><b>5 Queijos:</b> Mussarela, catupiry, provolone, cheddar e queijo minas</li>
-                      <li><b>Vegetariano:</b> Ricota, tomate, cebola, alho e orégano</li>
+                      <li><b>Vegetariano:</b> Ricota, palmito, tomate, cebola, alho e orégano</li>
                       <li><b>Camarão ao molho</b></li>
                     </ul>
                     <h3>Recheios doces</h3>
