@@ -49,8 +49,7 @@
                         <h3 class="p1">Telefones</h3>
                         <dl>
                             <dd><span>Fixo:</span>  (21) 3681-8324</dd>
-                            <dd><span>Claro:</span>  (21) 8324-4001</dd>
-                            <dd><span>Tim:</span>  (21) 8546-3413</dd>
+                            <dd><span>Claro:</span>  (21) 98324-4001</dd>
                             <dd><span>Email:</span><a class="color-2" href="#">degustecrepes@hotmail.com</a></dd>
                         </dl>
                     </div>

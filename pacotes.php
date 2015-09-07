@@ -57,23 +57,57 @@
         <div class="main">
             <div class="container">
             	<h3 class="prev-indent-bot">Serviços</h3>
-                	<div>
-                    	<div class="p4" >
-                            <figure><a class="lightbox-image" href="images/slider-img1.jpg" data-gal="prettyPhoto[prettyPhoto]"><img src="images/page3-img1.jpg" alt=""></a></figure>
-                            <h5>Simples</h5>
-                            <p class="p1">Apartir de 30 pessoas</p>
-                            <p class="p2"><strong class="color-2">Preço promocional: R$ 1.020,00</strong></p>
-                            <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
-                            <a class="button-1" href="cardapio_simples.php">+ Detalhes</a>
-                        </div>
-                        <div class="p4">
-                            <figure><a class="lightbox-image" href="images/slider-img2.jpg" data-gal="prettyPhoto[prettyPhoto]"><img src="images/page3-img5.jpg" alt=""></a></figure>
-                            <h5>Especial</h5>
-                            <p class="p1">Apartir de 30 pessoas</p>
-                            <p class="p2"><strong class="color-2">Preço promocional: R$ 1.140,00</strong></p>
-                            <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
-                            <a class="button-1" href="cardapio_especial.php">+ Detalhes</a>
-                        </div>
+    	            <div class="wrapper">
+                        <article class="col-1">
+                        	<div class="p4" >
+                                <h3>Crepe Simples</h3>
+                                <figure><a class="lightbox-image" href="images/capa3.jpg" data-gal="prettyPhoto[prettyPhoto]"><img src="images/capa3.jpg" alt=""></a></figure>
+                                <h5>Simples</h5>
+                                <p class="p1">Apartir de 30 pessoas</p>
+                                <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
+                                <a class="button-1" href="cardapio_simples.php">+ Detalhes</a>
+                            </div>
+                        </article>
+                        <article style="margin-left:15px;" class="col-2">
+                            <div class="p4">
+                                <h3>Crepe Especial</h3>
+                                <figure><a class="lightbox-image" href="images/crepeEspecial.jpg" data-gal="prettyPhoto[prettyPhoto]"><img width="290px" height="150px" src="images/crepeEspecial.jpg" alt=""></a></figure>
+                                <h5>Especial</h5>
+                                <p class="p1">Apartir de 30 pessoas</p>
+                                <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
+                                <a class="button-1" href="cardapio_especial.php">+ Detalhes</a>
+                            </div>
+                        </article>
+                        <article style="margin-left:15px;" class="col-2">
+                            <div class="p4">
+                                <h3>Massa 1 <b style="font-size:9px;color:red;">Novo</b></h3>
+                                <figure><a class="lightbox-image" href="images/page3-img8.jpg" data-gal="prettyPhoto[prettyPhoto]"><img width="290px" height="150px" src="images/page3-img8.jpg" alt=""></a></figure>
+                                <h5>Simples</h5>
+                                <p class="p1">Apartir de 30 pessoas</p>
+                                <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
+                                <a class="button-1" href="massa1.php">+ Detalhes</a>
+                            </div>
+                        </article>
+                        <article class="col-2">
+                            <div class="p4">
+                                <h3>Massa 2 <b style="font-size:9px;color:red;">Novo</b></h3>
+                                <figure><a class="lightbox-image" href="images/espaguete.jpg" data-gal="prettyPhoto[prettyPhoto]"><img width="290px" height="150px" src="images/espaguete.jpg" alt=""></a></figure>
+                                <h5>Especial</h5>
+                                <p class="p1">Apartir de 30 pessoas</p>
+                                <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
+                                <a class="button-1" href="massa2.php">+ Detalhes</a>
+                            </div>
+                        </article>
+                         <article class="col-2" style="margin-left:15px;">
+                            <div class="p4">
+                                <h3>Crepes e Massas<b style="font-size:9px;color:red;">Novo</b></h3>
+                                <figure><a class="lightbox-image" href="images/crepe_massa.jpg" data-gal="prettyPhoto[prettyPhoto]"><img width="290px" height="150px" src="images/crepe_massa.jpg" alt=""></a></figure>
+                                <h5>Especial</h5>
+                                <p class="p1">Apartir de 30 pessoas</p>
+                                <p class="p2"><strong class="color-2">Incluido 1 Garçom</strong></p>
+                                <a class="button-1" href="massas_e_crepes.php">+ Detalhes</a>
+                            </div>
+                        </article>
                     </div>
             </div>
         </div>

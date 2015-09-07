@@ -42,7 +42,7 @@
         <div class="row-bot">
         	<div class="row-bot-bg">
             	<div class="main">
-                	<h2>Buffet <span> Especial</span></h2>
+                	<h2>Massas & Crepes</h2>
                 </div>
             </div>
         </div>
@@ -56,18 +56,11 @@
       	       <article class="col-1">
                   <div class="indent-left">
                         <div class="img-indent-bot">
-                            <h3 class="prev-indent-bot">Crepes Simples</h3>
+                            <h3 class="prev-indent-bot">Massas & Crepes</h3>
                             <div class="wrapper img-indent-bot">
-                                <figure class="img-indent"><img src="images/page2-img1.jpg" alt=""></figure>
+                                <figure class="img-indent"><img width="300px" src="images/crepe_massa.jpg" alt=""></figure>
                             </div>
-                            <a class="button-1" href="cardapio_simples.php">+ Detalhes</a>
-                        </div>
-                        <div class="img-indent-bot">
-                            <h3 class="prev-indent-bot">Crepes Especiais</h3>
-                            <div class="wrapper img-indent-bot">
-                                <figure class="img-indent"><img src="images/crepeEspecial.jpg" width="300px" alt=""></figure>
-                            </div>
-                            <a class="button-1" href="cardapio_especial.php">+ Detalhes</a>
+                            <a class="button-1" href="massas_e_crepes.php">+ Detalhes</a>
                         </div>
                     </div>
                 </article>
@@ -87,10 +80,12 @@
                     </ul>
                     <h3>Molhos</h3>
                     <ul class="price-list p2">
-                      <li>Molho bechamel (branco)</li>
-                      <li>Molho sugo (vermelho)</li>
+                      <li>Bechamel (branco)</li>
+                      <li>Sugo (vermelho)</li>
+                      <li>4 Queijos</li>
+                      <li>Rose</li>
                     </ul>
-                    <h3>Recheios salgados</h3>
+                    <h3>Recheio dos crepes salgados</h3>
                     <ul class="price-list p2">
                       <li><b>Napolitano:</b> Queijo, tomate, presunto e orégano </li>
                       <li><b>Pizza:</b> Queijo, presunto, tomate, cebola, orégano e manjericão</li>
@@ -104,7 +99,31 @@
                       <li><b>França:</b> Frango, catupiry e champion</li>
                       <li><b>5 Queijos</b> Mussarela, catupiry, provolone, cheddar e ricota</li>
                     </ul>
-                    <h3>Recheios doces</h3>
+                    <h3>Recheio das massas</h3>
+                    <ul class="price-list p2">
+                      <li>Mussarela</li>
+                      <li>Cebola</li>
+                      <li>Tomate</li>
+                      <li>Provolone</li>
+                      <li>Frango</li>
+                      <li>Calabresa</li>
+                      <li>Carne</li>
+                      <li>Bacon</li>
+                      <li>Presunto</li>
+                      <li>Alho</li>
+                      <li>Azeitona</li>
+                      <li>Brócolis</li>
+                      <li>Champion</li>
+                      <li>Ervilha</li>
+                      <li>Passas</li>
+                      <li>Camarão</li>
+                      <li>Tomate Seco</li>
+                      <li>Milho</li>
+                      <li>Palmito</li>
+                      <li>Ovos</li>
+                      <li><b>Toque verde:</b> Cebolinha, salsa, orégano e manjericão</li>
+                    </ul>
+                    <h3>Recheio dos crepes doces</h3>
                     <ul class="price-list p2">
                       <li><b>Banana c/ Chocolate</b></li>
                       <li><b>Romeu e Julieta</b></li>
@@ -127,11 +146,13 @@
                     <ul class="price-list p2">
                       <li>Coca cola (normal e zero)</li>
                       <li>Guarana (normal e zero)</li>
-                      <li>Fanta (Laranja e uva)</li>
-                      <li>Sprite</li>
-                      <li>Suco limitado</li>
                       <li>Ice Tea</li>
                       <li>Água mineral c/ e sem gás</li>
+                    </ul>
+                    <h3>Finalização</h3>
+                    <ul class="price-list p2">
+                      <li>Cafezinho</li>
+                      <li>Chá</li>
                     </ul>
                 </article>
             </div>

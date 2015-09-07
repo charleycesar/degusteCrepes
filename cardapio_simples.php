@@ -52,29 +52,20 @@
     <section id="content">
         <div class="main">
             <div class="wrapper">
+                <div class="v4-tease"><a href="contact.php">Solicite um orçamento</a></div>
                 <article class="col-1">
                   <div class="indent-left">
                         <div class="img-indent-bot">
                             <h3 class="prev-indent-bot">Crepes Simples</h3>
                             <div class="wrapper img-indent-bot">
                                 <figure class="img-indent"><img src="images/page2-img1.jpg" alt=""></figure>
-                                <div class="extra-wrap">
-                                    <h5>Mínimo de 30 pessoas</h5>
-                                    <h5>Duração de 4 horas</h5>
-                                    <p align="justify">Nossos crepes são preparados por profissionais de qualidade e de forma artesanal.</p>
-                                </div>
                             </div>
                             <a class="button-1" href="cardapio_simples.php">+ Detalhes</a>
                         </div>
                         <div class="img-indent-bot">
                             <h3 class="prev-indent-bot">Crepes Especiais</h3>
                             <div class="wrapper img-indent-bot">
-                                <figure class="img-indent"><img src="images/page2-img1.jpg" alt=""></figure>
-                                <div class="extra-wrap">
-                                    <h5>Minimo de 30 pessoas</h5>
-                                    <h5>Duração de 4 horas</h5>
-                                    <p align="justify">Nossos crepes são saborosos e todos os profissionais estão aptos e qualificados para o serviço.</p>
-                                </div>
+                                <figure class="img-indent"><img src="images/crepeEspecial.jpg" width="300px" alt=""></figure>
                             </div>
                             <a class="button-1" href="cardapio_especial.php">+ Detalhes</a>
                         </div>
@@ -87,50 +78,46 @@
                     </ul>
                     <h3>Acompanhamentos</h3>
                     <ul class="price-list p2">
-                      <li>Salada verde<br> (Alface, agrião, rúcula, tomate seco, kani, batata palha e blanquet de peru)</li>
+                      <li>Salada Verde 1<br> (Alface, agrião, tomate e cebola)</li>
+                      <li>Salada Verde 2<br> (Alface, cenoura, palmito e kani)</li>
                     </ul>
                     <h3>Molhos</h3>
                     <ul class="price-list p2">
                       <li>Molho bechamel (branco)</li>
                       <li>Molho sugo (vermelho)</li>
                     </ul>
-                    <h3>Recheios salgados</h3>
+                    <h3>Recheios dos crepes salgados</h3>
                     <ul class="price-list p2">
-                      <li>Mussarela</li>
-                      <li>Presunto</li>
-                      <li>Catupiry</li>
-                      <li>Calabresa</li>
-                      <li>Frango</li>
-                      <li>Tomate</li>
-                      <li>Cebola</li>
-                      <li>Orégano</li>
-                      <li>Manjericão</li>
-                      <li>Ricota</li>
-                      <li>Cheddar</li>                    
+                      <li><b>Napolitano:</b> Queijo, tomate, presunto e orégano </li>
+                      <li><b>Pizza:</b> Queijo, presunto, tomate, cebola, orégano e manjericão</li>
+                      <li><b>Margherita:</b> Queijo, parmesão, tomate, cebola e manjericão</li>
+                      <li><b>4 Queijos:</b> Mussarela, catupiry, parmesão e ricota</li>
+                      <li><b>Portuguesa:</b> Queijo, presunto, calabresa, azeitona, tomate, cebola e orégano</li>
+                      <li><b>Tradicional:</b> Queijo e presunto</li>
+                      <li><b>Frango c/ catupiry</b></li>
                     </ul>
                     <h3>Recheios doces</h3>
                     <ul class="price-list p2">
-                      <li>Chocolate</li>
-                      <li>Doce de leite</li>
-                      <li>Banana ,áçucar e canela</li>
-                      <li>Morango</li>
-                      <li>Coco</li>
-                      <li>Romeu e Julieta</li>
+                      <li><b>Banana c/ Chocolate</b></li>
+                      <li><b>Romeu e Julieta</b></li>
+                      <li><b>Sensação:</b> Chocolate, morango e coco</li>
+                      <li><b>Doce de leite c/ banana</b></li>
+                      <li><b>Mineiro:</b> Doce de leite c/ queijo</li>
+                      <li><b>Banana, áçucar e canela</b></li>
+                      <li><b>Doce de leite com coco</b></li>
                     </ul>
                     <h3>Acompanhamentos de crepes doces</h3>
                     <ul class="price-list p2">
                       <li>Sorvetes</li>
                       <li>Caldas (Morango e chocolate)</li>
-                      <li>Amendoim</li>
+                      <li>Paçoca</li>
                     </ul>
                     <h3>Bebidas</h3>
                     
                     <ul class="price-list p2">
                       <li>Coca cola (normal e zero)</li>
                       <li>Guarana (normal e zero)</li>
-                      <li>Fanta (Laranja e uva)</li>
-                      <li>Sprite</li>
-                      <li>Ice Tea (Pêssego e limão)</li>
+                      <li>Ice Tea</li>
                       <li>Água mineral sem gás</li>
                     </ul>
                     
