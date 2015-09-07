@@ -43,10 +43,10 @@
                                     <img src="images/fotoSlide01.jpg" alt="" />
                                 </li>
                                 <li>
-                                    <img src="images/fotoSlide02.jpg" alt="" />
+                                    <img src="images/slide3.jpg" alt="" />
                                 </li>
                                 <li>
-                                    <img src="images/imgSlide3.jpg" alt="" />
+                                    <img src="images/slide4.jpg" alt="" />
                                 </li>
                             </ul>
                         </div>
@@ -74,13 +74,15 @@
             	<article class="column-1">
                 	<div class="indent-left">
                         <div class="maxheight indent-bot">
-                            <h3>Serviços de Crepes</h3>
+                            <h3>Serviços</h3>
                             <ul class="list-1">
-                                <li><a href="cardapio_simples.php">Simples</a></li>
-                                <li><a href="cardapio_especial.php">Especial</a></li>
+                                <li><a href="cardapio_simples.php">Crepe simples</a></li>
+                                <li><a href="cardapio_especial.php">Crepe Especial</a></li>
+                                <li><a href="massa1.php">Massa 1</a></li>
+                                <li><a href="massa2.php">Massa 2</a></li>
                             </ul>
                         </div>
-                        <a class="button-1" href="pacotes.php">+ Detalhes</a>
+                        <a class="button-1" href="pacotes.php">Ver todos</a>
                     </div>
                 </article>
                 <article class="column-2">
