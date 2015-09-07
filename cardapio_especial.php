@@ -102,8 +102,8 @@
                       <li><b>Mineira:</b> Queijo, carne seca, catupiry e orégano</li>
                       <li><b>Brasileira:</b> Calabresa, cebola, tomate, orégano manjericão e queijo</li>
                       <li><b>Frances:</b> Frango, catupiry e champion</li>
-                      <li><b>5 Queijos</b> Mussarela, catupiry, provolone, cheddar e queijo minas</li>
-                      <li><b>Vegetariano</b>Ricota, tomate, cebola, alho e orégano</li>
+                      <li><b>5 Queijos:</b> Mussarela, catupiry, provolone, cheddar e queijo minas</li>
+                      <li><b>Vegetariano:</b> Ricota, tomate, cebola, alho e orégano</li>
                       <li><b>Camarão ao molho</b></li>
                     </ul>
                     <h3>Recheios doces</h3>
