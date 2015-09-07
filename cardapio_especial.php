@@ -101,8 +101,9 @@
                       <li><b>Frango c/ catupiry</b></li>
                       <li><b>Mineira:</b> Queijo, carne seca, catupiry e orégano</li>
                       <li><b>Brasileira:</b> Calabresa, cebola, tomate, orégano manjericão e queijo</li>
-                      <li><b>França:</b> Frango, catupiry e champion</li>
+                      <li><b>Frances:</b> Frango, catupiry e champion</li>
                       <li><b>5 Queijos</b> Mussarela, catupiry, provolone, cheddar e ricota</li>
+                      <li>Camarão ao molho</li>
                     </ul>
                     <h3>Recheios doces</h3>
                     <ul class="price-list p2">
@@ -115,6 +116,7 @@
                       <li><b>Doce de leite com coco</b></li>
                       <li><b>Chocolate c/ manga</b></li>
                       <li><b>Realeza:</b> Beijinho de coco c/ morango</li>
+                      <li><b>Paixão</b>Nutela c/ morango</li>
                     </ul>
                     <h3>Acompanhamentos de crepes doces</h3>
                     <ul class="price-list p2">

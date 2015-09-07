@@ -2,6 +2,7 @@
 #Pegar os dados
 $nome    = $_POST['nome'];
 $email	 = $_POST['email'];
+$telefone = $_POST['telefone']
 $qtd	 = $_POST['qtd'];
 $servico = $_POST['servico'];
 $message = $_POST['message'];
@@ -13,7 +14,8 @@ $email_assunto = "Contato via site";
 
 
 $email_conteudo = "Nome = $nome \n"; 
-$email_conteudo .= "Email = $email \n"; 
+$email_conteudo .= "Email = $email \n";
+$email_conteudo .= "Telefone = $telefone \n"; 
 $email_conteudo .= "Quantidade de pessoas = $qtd \n"; 
 $email_conteudo .= "Serviço = $servico \n"; 
 $email_conteudo .=  "Mensagem = $message \n";

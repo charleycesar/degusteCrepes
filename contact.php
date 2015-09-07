@@ -68,6 +68,7 @@
                         <fieldset>
                               <label><span class="text-form">Nome:</span><input name="nome" type="text" /></label>
                               <label><span class="text-form">Email:</span><input name="email" type="text" /></label>                              
+                              <label><span class="text-form">Telefone:</span><input name="telefone" type="text" /></label>                              
                               <label><span class="text-form">Qtd pessoas:</span><input name="qtd" type="text" /></label>                              
                               <label><span class="text-form">Serviço:</span><input name="servico" type="text" /></label>                              
                               <div class="wrapper">
