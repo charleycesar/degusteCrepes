@@ -108,6 +108,7 @@
                     <h3>Recheios doces</h3>
                     <ul class="price-list p2">
                       <li><b>Banana c/ Chocolate</b></li>
+                      <li><b>Manga c/ Chocolate</b></li>
                       <li><b>Romeu e Julieta</b></li>
                       <li><b>Sensação:</b> Chocolate, morango e coco</li>
                       <li><b>Doce de leite c/ banana</b></li>
@@ -116,7 +117,9 @@
                       <li><b>Doce de leite com coco</b></li>
                       <li><b>Chocolate c/ manga</b></li>
                       <li><b>Realeza:</b> Beijinho de coco c/ morango</li>
-                      <li><b>Paixão</b>Nutela c/ morango</li>
+                      <li><b>Afrodite:</b> Beijinho de coco c/ abacaxi</li>
+                      <li><b>Paixão:</b> Nutela c/ morango</li>
+                      <li><b>4 Estações:</b> Morango, abacaxi, manga e banana</li>
                     </ul>
                     <h3>Acompanhamentos de crepes doces</h3>
                     <ul class="price-list p2">
